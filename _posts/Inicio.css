@@ -1,0 +1,12 @@
+* {
+    background-color: gray;
+}
+body {
+    border-style: dotted;
+}
+h1 {
+    color: white;
+}
+p {
+    color: thistle;
+}
